@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /agentie/
+
+
+# If the requested file or directory exists, don't rewrite the URL
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Rewrite all other requests to index.php
+RewriteRule ^(.*)$ index.php [QSA,L]

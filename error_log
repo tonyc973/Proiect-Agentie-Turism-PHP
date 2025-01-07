@@ -1,0 +1,735 @@
+[22-Dec-2024 18:13:46 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[22-Dec-2024 19:30:45 Europe/Bucharest] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/index.php on line 3
+[22-Dec-2024 19:30:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/index.php on line 3
+[22-Dec-2024 19:31:46 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[22-Dec-2024 19:31:49 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[22-Dec-2024 19:31:56 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[22-Dec-2024 19:34:18 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[22-Dec-2024 19:39:20 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[22-Dec-2024 19:47:17 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'roglia_tony'@'cw37-aef-d10.romania-webhosting.com' (using password: YES) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=tony...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[22-Dec-2024 19:47:26 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'roglia_tony'@'cw37-aef-d10.romania-webhosting.com' (using password: YES) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=tony...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[22-Dec-2024 20:07:38 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function requireRole() in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:57
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(42): UserController::login()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(10): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 57
+[22-Dec-2024 20:33:01 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function requireRole() in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:57
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(42): UserController::login()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(10): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 57
+[22-Dec-2024 20:34:59 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function requireRole() in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:57
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(42): UserController::login()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(10): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 57
+[22-Dec-2024 20:35:02 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function requireRole() in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:57
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(42): UserController::login()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(10): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 57
+[22-Dec-2024 20:53:17 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function requireRole() in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:57
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(42): UserController::login()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(10): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 57
+[22-Dec-2024 21:19:12 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/views/users/register.php:1) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 44
+[22-Dec-2024 21:19:46 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[22-Dec-2024 21:19:48 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[22-Dec-2024 21:19:48 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[22-Dec-2024 21:19:49 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[22-Dec-2024 21:19:49 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[22-Dec-2024 21:19:51 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[22-Dec-2024 22:01:46 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[23-Dec-2024 13:15:04 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[23-Dec-2024 13:15:07 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[23-Dec-2024 13:15:07 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 126
+[23-Dec-2024 13:53:52 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:53:52 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:53:56 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:53:56 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:54:22 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:54:22 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:55:20 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:55:20 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:55:22 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:55:22 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:56:02 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:56:02 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:56:03 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:56:03 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:56:04 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:56:04 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:57:18 Europe/Bucharest] PHP Warning:  require_once(role_separation.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[23-Dec-2024 13:57:18 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'role_separation.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:3
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(39): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 3
+[02-Jan-2025 18:37:09 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[02-Jan-2025 18:37:10 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[02-Jan-2025 18:37:10 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[02-Jan-2025 18:37:11 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[02-Jan-2025 18:37:11 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[02-Jan-2025 18:56:05 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'roglia_tony'@'localhost' to database 'roglia_ta' in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[02-Jan-2025 18:56:07 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'roglia_tony'@'localhost' to database 'roglia_ta' in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[02-Jan-2025 18:57:15 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'roglia_tony'@'localhost' to database 'roglia_ta' in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[02-Jan-2025 18:57:16 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'roglia_tony'@'localhost' to database 'roglia_ta' in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[02-Jan-2025 19:03:09 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'roglia_tony'@'localhost' (using password: YES) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[02-Jan-2025 19:03:10 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'roglia_tony'@'localhost' (using password: YES) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[02-Jan-2025 19:03:10 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'roglia_tony'@'localhost' (using password: YES) in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php(8): PDO->__construct('mysql:host=loca...', 'roglia_tony', 'Tony(2024)')
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(3): require_once('/home/roglia/to...')
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/pdo.php on line 8
+[02-Jan-2025 19:05:45 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/views/users/register.php:1) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 44
+[02-Jan-2025 19:08:22 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/views/users/register.php:1) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 44
+[02-Jan-2025 19:23:23 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'roglia_ta.Bookings' doesn't exist in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/Booking.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/Booking.php(8): PDOStatement->execute()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php(9): Booking::getAllbookings()
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(42): bookingController::index()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/Booking.php on line 8
+[02-Jan-2025 19:47:17 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'roglia_ta.Bookings' doesn't exist in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/Booking.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/Booking.php(8): PDOStatement->execute()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php(9): Booking::getAllbookings()
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(42): bookingController::index()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/Booking.php on line 8
+[02-Jan-2025 19:47:35 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:47:39 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:47:48 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:47:51 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:47:53 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:47:57 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:48:03 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:48:06 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:48:09 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:48:11 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:48:15 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:48:22 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:48:23 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 168
+[02-Jan-2025 19:58:38 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/views/users/register.php:1) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 44
+[02-Jan-2025 19:58:48 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 19:58:48 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:15:27 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "public" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 17
+[02-Jan-2025 21:15:30 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "public" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 17
+[02-Jan-2025 21:15:35 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "public" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 17
+[02-Jan-2025 21:15:42 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "public" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 17
+[02-Jan-2025 21:16:10 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "public" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 17
+[02-Jan-2025 21:16:13 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "public" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 17
+[02-Jan-2025 21:16:14 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "public" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 17
+[02-Jan-2025 21:16:15 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "public" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 17
+[02-Jan-2025 21:17:13 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "}" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 13
+[02-Jan-2025 21:17:14 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "}" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 13
+[02-Jan-2025 21:17:55 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:17:55 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:17:57 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:17:57 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:18:01 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:18:01 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:18:04 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:18:04 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:18:37 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:18:37 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:18:41 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:18:41 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:18:42 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:18:42 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:35:47 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:35:47 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:35:51 Europe/Bucharest] PHP Warning:  Undefined array key "first_name" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 173
+[02-Jan-2025 21:35:51 Europe/Bucharest] PHP Warning:  Undefined array key "role" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/tours/index.php on line 175
+[02-Jan-2025 21:53:43 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[02-Jan-2025 21:55:14 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[02-Jan-2025 21:55:16 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[02-Jan-2025 21:57:25 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[02-Jan-2025 21:57:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 14:39:40 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/views/users/register.php:1) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 53
+[03-Jan-2025 14:40:36 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 15:13:58 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 15:14:00 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 18:47:02 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 18:47:03 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 18:57:29 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 18:57:33 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 19:44:16 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 19:48:54 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 19:48:56 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 19:58:20 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ContactController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 20:03:58 Europe/Bucharest] PHP Warning:  require_once(/home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 2
+[03-Jan-2025 20:03:58 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php:2
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(40): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 2
+[03-Jan-2025 20:04:00 Europe/Bucharest] PHP Warning:  require_once(/home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 2
+[03-Jan-2025 20:04:00 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php:2
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(40): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 2
+[03-Jan-2025 20:06:58 Europe/Bucharest] PHP Warning:  require_once(/home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/caietul_mereu/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 2
+[03-Jan-2025 20:06:58 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/caietul_mereu/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php:2
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(40): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 2
+[03-Jan-2025 20:11:48 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Non-static method ContactController::show() cannot be called statically in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 20:11:50 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Non-static method ContactController::show() cannot be called statically in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:43
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 43
+[03-Jan-2025 21:36:52 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Non-static method ContactController::send_email() cannot be called statically in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:45
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 45
+[03-Jan-2025 21:53:17 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:27 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:30 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:31 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:32 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:33 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:33 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:33 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:34 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:34 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:34 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:35 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:35 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:36 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:36 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:37 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:37 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:38 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:38 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:38 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:39 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:39 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:39 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:40 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:40 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:40 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:44 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:45 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:45 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:50 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:51 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:51 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:52 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:52 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:52 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:53 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:54 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:54 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:55 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:56 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:56 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 21:58:57 Europe/Bucharest] PHP Warning:  imagettftext(): Could not find/open font in /home/roglia/tony.roglia.ro/caietul_mereu/captcha.php on line 25
+[03-Jan-2025 22:47:29 Europe/Bucharest] PHP Parse error:  syntax error, unexpected double-quoted string "showAllSessions", expecting "]" in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 21
+[03-Jan-2025 22:47:35 Europe/Bucharest] PHP Parse error:  syntax error, unexpected double-quoted string "showAllSessions", expecting "]" in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 21
+[03-Jan-2025 22:48:45 Europe/Bucharest] PHP Warning:  include_once(../app/models/UserSessionModel.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 3
+[03-Jan-2025 22:48:45 Europe/Bucharest] PHP Warning:  include_once(): Failed opening '../app/models/UserSessionModel.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 3
+[03-Jan-2025 22:48:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Non-static method UserSessionController::showAllSessions() cannot be called statically in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:46
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 46
+[03-Jan-2025 22:49:44 Europe/Bucharest] PHP Warning:  include_once(../app/models/UserSessionModel.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 3
+[03-Jan-2025 22:49:44 Europe/Bucharest] PHP Warning:  include_once(): Failed opening '../app/models/UserSessionModel.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 3
+[03-Jan-2025 22:49:44 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "UserSessionModel" not found in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(46): UserSessionController::showAllSessions()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 8
+[03-Jan-2025 22:49:46 Europe/Bucharest] PHP Warning:  include_once(../app/models/UserSessionModel.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 3
+[03-Jan-2025 22:49:46 Europe/Bucharest] PHP Warning:  include_once(): Failed opening '../app/models/UserSessionModel.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 3
+[03-Jan-2025 22:49:46 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "UserSessionModel" not found in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(46): UserSessionController::showAllSessions()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 8
+[03-Jan-2025 22:51:21 Europe/Bucharest] PHP Warning:  include_once(/app/models/UserSessionModel.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 3
+[03-Jan-2025 22:51:21 Europe/Bucharest] PHP Warning:  include_once(): Failed opening '/app/models/UserSessionModel.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 3
+[03-Jan-2025 22:51:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "UserSessionModel" not found in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php:8
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(46): UserSessionController::showAllSessions()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 8
+[03-Jan-2025 22:53:45 Europe/Bucharest] PHP Warning:  require_once(app/views/sessions_list.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 9
+[03-Jan-2025 22:53:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'app/views/sessions_list.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php:9
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(46): UserSessionController::showAllSessions()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 9
+[03-Jan-2025 22:55:06 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[03-Jan-2025 22:55:07 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[03-Jan-2025 22:55:07 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[03-Jan-2025 22:55:08 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[03-Jan-2025 22:55:09 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[03-Jan-2025 22:55:09 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[03-Jan-2025 22:55:13 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "UserSessionModel" not found in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:90
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(46): UserController::logout()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 90
+[03-Jan-2025 22:59:33 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "UserSessionModel" not found in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:70
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(46): UserController::login()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 70
+[03-Jan-2025 23:01:10 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined method UserSessionModel::getLastSession() in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php:93
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(46): UserController::logout()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 93
+[04-Jan-2025 11:18:03 Europe/Bucharest] PHP Warning:  Undefined array key "user_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 88
+[04-Jan-2025 11:43:18 Europe/Bucharest] PHP Warning:  require(app/views/session_details.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 62
+[04-Jan-2025 11:43:18 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'app/views/session_details.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php:62
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(48): UserSessionController::listSessions()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 62
+[04-Jan-2025 11:43:22 Europe/Bucharest] PHP Warning:  require(app/views/session_details.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 62
+[04-Jan-2025 11:43:22 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'app/views/session_details.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php:62
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(48): UserSessionController::listSessions()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserSessionController.php on line 62
+[04-Jan-2025 11:59:11 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[04-Jan-2025 11:59:13 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[04-Jan-2025 12:11:48 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 104
+[04-Jan-2025 12:11:48 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 128
+[04-Jan-2025 12:13:31 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 47
+[04-Jan-2025 12:13:31 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 48
+[04-Jan-2025 12:13:31 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 51
+[04-Jan-2025 12:13:31 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 78
+[04-Jan-2025 12:13:35 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 47
+[04-Jan-2025 12:13:35 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 48
+[04-Jan-2025 12:13:35 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 51
+[04-Jan-2025 12:13:35 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 78
+[04-Jan-2025 12:15:14 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 98
+[04-Jan-2025 12:15:14 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 134
+[04-Jan-2025 12:22:07 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 98
+[04-Jan-2025 12:22:07 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 134
+[04-Jan-2025 12:22:52 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 98
+[04-Jan-2025 12:22:52 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 134
+[04-Jan-2025 12:42:27 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token ";" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/session_details.php on line 4
+[04-Jan-2025 12:44:56 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token ";" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/session_details.php on line 5
+[04-Jan-2025 12:44:58 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token ";" in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/session_details.php on line 5
+[04-Jan-2025 12:46:22 Europe/Bucharest] PHP Warning:  Undefined variable $userDurations in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 98
+[04-Jan-2025 12:46:22 Europe/Bucharest] PHP Warning:  Undefined variable $sessionCounts in /home/roglia/tony.roglia.ro/caietul_mereu/app/views/analytics/sessions_list.php on line 134
+[04-Jan-2025 13:31:28 Europe/Bucharest] PHP Warning:  Undefined array key "user_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 107
+[04-Jan-2025 13:31:36 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[04-Jan-2025 13:31:37 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[04-Jan-2025 13:31:37 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[04-Jan-2025 13:31:38 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[05-Jan-2025 14:35:47 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[05-Jan-2025 14:37:07 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/views/users/register.php:1) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 73
+[05-Jan-2025 14:50:24 Europe/Bucharest] PHP Warning:  require_once(app/controllers/ForgotPasswordController.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 47
+[05-Jan-2025 14:50:24 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'app/controllers/ForgotPasswordController.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:47
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 47
+[05-Jan-2025 14:54:21 Europe/Bucharest] PHP Warning:  require_once(app/controllers/ForgotPasswordController.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 47
+[05-Jan-2025 14:54:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required 'app/controllers/ForgotPasswordController.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:47
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 47
+[05-Jan-2025 14:55:35 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "ForgotPasswordController" not found in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:50
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 50
+[05-Jan-2025 14:58:34 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 14:58:59 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 14:59:07 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:00:08 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/views/users/register.php:1) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 73
+[05-Jan-2025 15:00:43 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:03:11 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:04:07 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:04:38 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:04:42 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined method ForgotPasswordController:: handlePasswordUpdate() in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:50
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 50
+[05-Jan-2025 15:11:04 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Non-static method ForgotPasswordController::handleResetRequest() cannot be called statically in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:50
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 50
+[05-Jan-2025 15:11:06 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Non-static method ForgotPasswordController::handleResetRequest() cannot be called statically in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:50
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 50
+[05-Jan-2025 15:11:34 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:14:41 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined method ForgotPasswordController:: handlePasswordUpdate() in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:50
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 50
+[05-Jan-2025 15:15:47 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:15:50 Europe/Bucharest] PHP Warning:  Undefined array key "reset_code" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 43
+[05-Jan-2025 15:15:50 Europe/Bucharest] PHP Warning:  Undefined array key "password" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 44
+[05-Jan-2025 15:15:50 Europe/Bucharest] PHP Warning:  Attempt to read property "reset_code" on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 50
+[05-Jan-2025 15:15:50 Europe/Bucharest] PHP Warning:  Attempt to read property "reset_code_expiration" on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 50
+[05-Jan-2025 15:18:54 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:18:55 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:19:09 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function update() on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:22
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(50): ForgotPasswordController::handleResetRequest()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 22
+[05-Jan-2025 15:19:17 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:23:06 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:23:08 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:48:52 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:49:34 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 10
+[05-Jan-2025 15:49:38 Europe/Bucharest] PHP Warning:  Undefined array key "reset_code" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 43
+[05-Jan-2025 15:49:38 Europe/Bucharest] PHP Warning:  Undefined array key "password" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 44
+[05-Jan-2025 15:49:38 Europe/Bucharest] PHP Warning:  Attempt to read property "reset_code" on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 50
+[05-Jan-2025 15:49:38 Europe/Bucharest] PHP Warning:  Attempt to read property "reset_code_expiration" on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 50
+[05-Jan-2025 16:39:57 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function update() on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:36
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): ForgotPasswordController::handleResetRequest()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 36
+[05-Jan-2025 17:30:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function update() on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:41
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): ForgotPasswordController::handleResetRequest()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 41
+[05-Jan-2025 17:41:58 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function update() on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:41
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): ForgotPasswordController::handleResetRequest()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 41
+[06-Jan-2025 21:44:02 Europe/Bucharest] PHP Warning:  Trying to access array offset on value of type bool in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 90
+[06-Jan-2025 21:44:02 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php:65
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php(65): PDOStatement->execute(Array)
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php(90): UserSessionModel::addSession(NULL, '2025-01-06 21:4...', NULL, 0)
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): UserController::login()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php on line 65
+[06-Jan-2025 22:14:36 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function update() on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:41
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): ForgotPasswordController::handleResetRequest()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 41
+[06-Jan-2025 22:22:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function update() on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:41
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): ForgotPasswordController::handleResetRequest()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 41
+[06-Jan-2025 22:27:24 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function update() on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:41
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): ForgotPasswordController::handleResetRequest()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 41
+[06-Jan-2025 22:27:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to a member function update() on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:41
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): ForgotPasswordController::handleResetRequest()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 41
+[06-Jan-2025 22:35:09 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/User.php:115
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/User.php(115): PDOStatement->execute(Array)
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php(43): User::update(Array)
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): ForgotPasswordController::handleResetRequest()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/User.php on line 115
+[06-Jan-2025 22:45:24 Europe/Bucharest] PHP Warning:  Undefined array key "email" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 85
+[06-Jan-2025 22:45:24 Europe/Bucharest] PHP Warning:  Trying to access array offset on value of type bool in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 90
+[06-Jan-2025 22:45:24 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php:65
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php(65): PDOStatement->execute(Array)
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php(90): UserSessionModel::addSession(NULL, '2025-01-06 22:4...', NULL, 0)
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): UserController::login()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php on line 65
+[06-Jan-2025 22:48:26 Europe/Bucharest] PHP Warning:  Trying to access array offset on value of type bool in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 90
+[06-Jan-2025 22:48:26 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php:65
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php(65): PDOStatement->execute(Array)
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php(90): UserSessionModel::addSession(NULL, '2025-01-06 22:4...', NULL, 0)
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): UserController::login()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php on line 65
+[06-Jan-2025 22:57:11 Europe/Bucharest] PHP Warning:  Trying to access array offset on value of type bool in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 90
+[06-Jan-2025 22:57:11 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php:65
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php(65): PDOStatement->execute(Array)
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php(90): UserSessionModel::addSession(NULL, '2025-01-06 22:5...', NULL, 0)
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): UserController::login()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php on line 65
+[06-Jan-2025 22:57:23 Europe/Bucharest] PHP Warning:  Trying to access array offset on value of type bool in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 90
+[06-Jan-2025 22:57:23 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php:65
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php(65): PDOStatement->execute(Array)
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php(90): UserSessionModel::addSession(NULL, '2025-01-06 22:5...', NULL, 0)
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): UserController::login()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php on line 65
+[06-Jan-2025 23:03:03 Europe/Bucharest] PHP Warning:  Trying to access array offset on value of type bool in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php on line 90
+[06-Jan-2025 23:03:03 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php:65
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php(65): PDOStatement->execute(Array)
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/UserController.php(90): UserSessionModel::addSession(NULL, '2025-01-06 23:0...', NULL, 0)
+#2 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(52): UserController::login()
+#3 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#4 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/UserSessionModel.php on line 65
+[06-Jan-2025 23:52:56 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "ublic", expecting "function" or "const" in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/User.php on line 120
+[06-Jan-2025 23:52:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "ublic", expecting "function" or "const" in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/User.php on line 120
+[06-Jan-2025 23:53:09 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "ublic", expecting "function" or "const" in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/User.php on line 120
+[06-Jan-2025 23:53:12 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "ublic", expecting "function" or "const" in /home/roglia/tony.roglia.ro/caietul_mereu/app/models/User.php on line 120
+[07-Jan-2025 12:01:00 Europe/Bucharest] PHP Warning:  Attempt to read property "reset_code" on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 94
+[07-Jan-2025 12:04:16 Europe/Bucharest] PHP Warning:  Array to string conversion in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 91
+[07-Jan-2025 12:04:16 Europe/Bucharest] PHP Warning:  Attempt to read property "reset_code" on array in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 94
+[07-Jan-2025 12:12:41 Europe/Bucharest] PHP Warning:  Array to string conversion in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 91
+[07-Jan-2025 12:19:47 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:91) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 106
+[07-Jan-2025 12:25:48 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:95) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 105
+[07-Jan-2025 12:35:26 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:92) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 107
+[07-Jan-2025 12:37:43 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/models/User.php:136) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 104
+[07-Jan-2025 13:16:11 Europe/Bucharest] PHP Warning:  require_once(/caietul_mereu/config/config.php): Failed to open stream: No such file or directory in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 5
+[07-Jan-2025 13:16:11 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/caietul_mereu/config/config.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php:5
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php(49): require_once()
+#1 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#2 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 5
+[07-Jan-2025 13:17:54 Europe/Bucharest] PHP Warning:  Undefined variable $config in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 44
+[07-Jan-2025 13:17:54 Europe/Bucharest] PHP Warning:  Trying to access array offset on value of type null in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ContactController.php on line 44
+[07-Jan-2025 13:49:23 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php:95) in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/ForgotPasswordController.php on line 105
+[07-Jan-2025 13:51:36 Europe/Bucharest] PHP Warning:  Undefined array key "booking_id" in /home/roglia/tony.roglia.ro/caietul_mereu/app/controllers/BookingController.php on line 125
+[07-Jan-2025 16:10:02 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined method TourController::create() in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php:52
+Stack trace:
+#0 /home/roglia/tony.roglia.ro/caietul_mereu/index.php(37): Router->direct()
+#1 {main}
+  thrown in /home/roglia/tony.roglia.ro/caietul_mereu/config/routes.php on line 52
