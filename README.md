@@ -1,6 +1,6 @@
 # Descrierea proiectului MVC pentru agenția de turism
 
-Acest proiect reprezintă o aplicație web dezvoltată pe baza arhitecturii MVC (Model-View-Controller) în PHP, destinată unei agenții de turism. Aplicația include funcționalități esențiale pentru gestionarea rezervărilor, tururilor și a utilizatorilor, fiind ușor de administrat atât de către angajații agenției, cât și de către administratorii platformei. Funcționalitățile sunt împărțite pe mai multe module, fiecare având un rol bine definit.
+Acest proiect reprezintă o aplicație web dezvoltată pe baza arhitecturii MVC (Model-View-Controller) în PHP, destinată unei agenții de turism. Aplicația include funcționalități esențiale pentru gestionarea rezervărilor, tururilor și a utilizatorilor, fiind ușor de administrat și utilizat atât de către administratorii cât și utilizatorii platformei. Funcționalitățile sunt împărțite pe mai multe module, fiecare având un rol bine definit.
 
 ## Funcționalități principale:
 
